@@ -1,0 +1,19 @@
+Visual Studio Code
+(VSC)
+
+extensions to download:
+Jupyter Notebook
+Python
+
+VSC is an IDE - integrated develpoment environment.
+
+Wind: CTRL SHIFT P -> command palette
+Mac: COMMAND SHIFT P -> command palette
+
+----
+Anaconda (Interpreter: PythonData)
+virtual environments - Python
+- java
+
+
+
